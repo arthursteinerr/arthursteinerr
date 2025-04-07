@@ -8,15 +8,19 @@ Minha jornada no campo da tecnologia é caracterizada por uma dedicação inabal
 
 ## Habilidades
 
-- **Linguagens de Programação:** Tenho sólida experiência em linguagens como Java, JavaScript, TypeScript, React, C e Python, sempre buscando aprimorar meu domínio e explorar novas linguagens.
-  
-- **Desenvolvimento Web:** Sou proficiente em desenvolvimento web, incluindo HTML e CSS, utilizando ferramentas como Canva, Figma e Photoshop para design. Estou atento às técnicas mais recentes para melhorar minhas habilidades neste campo em constante evolução.
+Linguagens de Programação: Possuo sólida experiência em linguagens como JavaScript, TypeScript, React, C e Python, com foco em boas práticas de codificação, estruturas de dados, algoritmos e desenvolvimento orientado a objetos. Estou sempre buscando aprimorar meu domínio técnico e explorar novos paradigmas e frameworks que agreguem valor ao meu repertório.
 
-- **Banco de Dados:** Possuo conhecimentos em SQL e em bancos de dados relacionais, com experiência em modelagem de dados e consultas eficientes.
+Desenvolvimento Web: Sou altamente proficiente em desenvolvimento web frontend e backend, com domínio de HTML5, CSS3, JavaScript moderno e frameworks como React. Tenho experiência na criação de interfaces responsivas e interativas, e utilizo ferramentas como Figma, Photoshop e Canva para elaborar protótipos e designs alinhados aos princípios de UX/UI e design responsivo.
 
-- **Metodologias Ágeis:** Estou familiarizado com práticas ágeis, como Scrum e Kanban, que promovem a colaboração e a eficiência em projetos de desenvolvimento.
+Banco de Dados: Tenho experiência com SQL e bancos de dados relacionais como PostgreSQL, incluindo modelagem de dados, normalização, otimização de consultas e elaboração de estruturas eficientes para sistemas escaláveis e performáticos.
 
-- **Outras Tecnologias:** Mantenho-me atualizado com as mais recentes tecnologias e frameworks, buscando constantemente expandir meu conjunto de habilidades para acompanhar as rápidas mudanças do mercado.
+Informática Geral: Possuo amplo domínio em Informática Aplicada, com conhecimento avançado em sistemas operacionais Windows, pacote Microsoft Office (Word, Excel, PowerPoint e Access), digitação eficiente, manutenção preventiva e corretiva de computadores, além de configuração de redes locais, impressoras e periféricos. Sou capaz de diagnosticar e solucionar problemas técnicos com agilidade, além de orientar usuários em ambientes corporativos ou domésticos.
+
+Controle de Versão: Utilizo Git e GitHub de forma fluente para versionamento de código, colaboração em equipe e gestão de ramificações em projetos de desenvolvimento.
+
+Metodologias Ágeis: Trabalho com metodologias ágeis como Scrum e Kanban, utilizando ferramentas como Trello e Notion para organização de tarefas, acompanhamento de sprints e gerenciamento de projetos de forma eficiente e colaborativa.
+
+Outras Tecnologias e Conhecimentos: Estou em constante atualização nas áreas de tecnologia, desenvolvimento de software e segurança da informação. Tenho interesse ativo em inteligência artificial, ciência de dados e automação de tarefas, buscando integrar soluções inovadoras ao meu processo de aprendizado e à resolução de problemas do dia a dia.
 
 ## Objetivos
 
