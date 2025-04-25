@@ -1,6 +1,6 @@
 ## Sobre Mim 
 
-Olá! Sou Arthur Steiner, um entusiasta apaixonado por tecnologia e um estudante dedicado de Análise e Desenvolvimento de Sistemas na FAMINAS, localizada em Muriaé, Brasil. Com 19 anos e atualmente cursando o 4º período, trabalho na prefeitura municipal de Laranjal, MG, na área de T.I., onde busco aprimorar minhas habilidades e fazer contribuições significativas para a comunidade.
+Olá! Sou Arthur Steiner, um entusiasta apaixonado por tecnologia e um estudante dedicado de Análise e Desenvolvimento de Sistemas na FAMINAS, localizada em Muriaé, Brasil. Com 20 anos e atualmente cursando o 4º período, trabalho na prefeitura municipal de Laranjal, MG, na área de T.I., onde busco aprimorar minhas habilidades e fazer contribuições significativas para a comunidade.
 
 ## Dedicação e Profissionalismo
 
