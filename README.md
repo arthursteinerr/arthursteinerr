@@ -1,24 +1,24 @@
-# Bem-vindo ao meu GitHub! 👋
+# Welcome to My GitHub! 👋
 
-## Sobre Mim
-Olá! Sou **Arthur Steiner**, um entusiasta apaixonado por tecnologia e estudante de **Análise e Desenvolvimento de Sistemas** na FAMINAS, Muriaé, Brasil. Aos 20 anos, estou constantemente aprimorando minhas habilidades e explorando novas fronteiras no mundo da tecnologia.
+## About Me  
+Hi! I'm **Arthur Steiner**, a passionate technology enthusiast and a **Systems Analysis and Development** student at FAMINAS, Muriaé, Brazil. At 20 years old, I'm constantly improving my skills and exploring new frontiers in the world of technology.
 
-## Habilidades 🛠️
-- **Linguagens de Programação:** JavaScript, TypeScript, React, C, Python.
-- **Desenvolvimento Web:** HTML5, CSS3, JavaScript moderno, React (Frontend e Backend).
-- **Banco de Dados:** SQL, PostgreSQL (modelagem, normalização, otimização de consultas).
-- **Controle de Versão:** Git e GitHub (versionamento, colaboração em equipe, gestão de ramificações).
-- **Metodologias Ágeis:** Scrum e Kanban (Trello e Notion para organização e acompanhamento).
-- **Informática Geral:** Sistemas Operacionais (Windows), Pacote Microsoft Office (Word, Excel, PowerPoint, Access).
+## Skills 🛠️  
+- **Programming Languages:** JavaScript, TypeScript, React, C, Python.  
+- **Web Development:** HTML5, CSS3, modern JavaScript, React (Frontend and Backend).  
+- **Databases:** SQL, PostgreSQL (data modeling, normalization, query optimization).  
+- **Version Control:** Git and GitHub (versioning, team collaboration, branch management).  
+- **Agile Methodologies:** Scrum and Kanban (Trello and Notion for organization and tracking).  
+- **General IT Skills:** Operating Systems (Windows), Microsoft Office Suite (Word, Excel, PowerPoint, Access).
 
-## Dedicação e Profissionalismo 🚀
-Minha jornada é caracterizada por uma dedicação inabalável e um compromisso com a excelência. Estou sempre buscando as melhores práticas de desenvolvimento, aprimorando minhas habilidades e me mantendo atualizado com as últimas tendências tecnológicas.
+## Dedication & Professionalism 🚀  
+My journey is marked by unwavering dedication and a strong commitment to excellence. I continuously seek best development practices, enhance my skills, and stay up-to-date with the latest tech trends.
 
-## Objetivos 🎯
-Estou em busca de oportunidades desafiadoras e colaborativas que me permitam aplicar minhas habilidades em projetos significativos. Meu objetivo é contribuir para projetos de código aberto, promover inovação e crescer como profissional na área de tecnologia.
+## Goals 🎯  
+I'm looking for challenging and collaborative opportunities where I can apply my skills to meaningful projects. My goal is to contribute to open-source initiatives, foster innovation, and grow as a professional in the tech industry.
 
-## Vamos Conectar 🌐
-- 📫 **E-mail:** [arthursteinerr@gmail.com](mailto:arthursteinerr@gmail.com)
+## Let’s Connect 🌐  
+- 📫 **Email:** [arthursteinerr@gmail.com](mailto:arthursteinerr@gmail.com)  
 - 💼 **GitHub:** [arthursteinerr](https://github.com/arthursteinerr)
 
-Sinta-se à vontade para entrar em contato para colaborações, discussões ou oportunidades de aprendizado. Vamos criar algo incrível juntos!
+Feel free to reach out for collaborations, discussions, or learning opportunities. Let’s build something amazing together!
