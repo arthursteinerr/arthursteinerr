@@ -1,24 +1,29 @@
-# Welcome to My GitHub! 👋
+# Bem-vindo ao meu GitHub! 
 
-## About Me  
-Hi! I'm **Arthur Steiner**, a passionate technology enthusiast and a **Systems Analysis and Development** student at FAMINAS, Muriaé, Brazil. At 20 years old, I'm constantly improving my skills and exploring new frontiers in the world of technology.
+## Sobre Mim
 
-## Skills 🛠️  
-- **Programming Languages:** JavaScript, TypeScript, React, C, Python.  
-- **Web Development:** HTML5, CSS3, modern JavaScript, React (Frontend and Backend).  
-- **Databases:** SQL, PostgreSQL (data modeling, normalization, query optimization).  
-- **Version Control:** Git and GitHub (versioning, team collaboration, branch management).  
-- **Agile Methodologies:** Scrum and Kanban (Trello and Notion for organization and tracking).  
-- **General IT Skills:** Operating Systems (Windows), Microsoft Office Suite (Word, Excel, PowerPoint, Access).
+Olá! Sou **Arthur Steiner**, um entusiasta de tecnologia e estudante de **Análise e Desenvolvimento de Sistemas** na FAMINAS, em Muriaé, Brasil. Com 20 anos, estou sempre buscando aprimorar minhas habilidades e explorar novas possibilidades no universo da tecnologia.
 
-## Dedication & Professionalism 🚀  
-My journey is marked by unwavering dedication and a strong commitment to excellence. I continuously seek best development practices, enhance my skills, and stay up-to-date with the latest tech trends.
+## Habilidades
 
-## Goals 🎯  
-I'm looking for challenging and collaborative opportunities where I can apply my skills to meaningful projects. My goal is to contribute to open-source initiatives, foster innovation, and grow as a professional in the tech industry.
+* **Linguagens de Programação:** JavaScript, TypeScript, React, C, Python.
+* **Desenvolvimento Web:** HTML5, CSS3, JavaScript moderno, React (Frontend e Backend).
+* **Bancos de Dados:** SQL, PostgreSQL (modelagem de dados, normalização, otimização de consultas).
+* **Controle de Versão:** Git e GitHub (versionamento, colaboração em equipe, gerenciamento de branches).
+* **Metodologias Ágeis:** Scrum e Kanban (uso do Trello e Notion para organização e acompanhamento).
+* **Habilidades Gerais em TI:** Sistemas Operacionais (Windows), Pacote Office (Word, Excel, PowerPoint, Access).
 
-## Let’s Connect 🌐  
-- 📫 **Email:** [arthursteinerr@gmail.com](mailto:arthursteinerr@gmail.com)  
-- 💼 **GitHub:** [arthursteinerr](https://github.com/arthursteinerr)
+## Dedicação & Profissionalismo 
 
-Feel free to reach out for collaborations, discussions, or learning opportunities. Let’s build something amazing together!
+Minha trajetória é marcada por uma dedicação incansável e um forte compromisso com a excelência. Estou sempre em busca das melhores práticas de desenvolvimento, aprimorando minhas habilidades e me mantendo atualizado com as últimas tendências tecnológicas.
+
+## Objetivos
+
+Busco oportunidades desafiadoras e colaborativas onde possa aplicar minhas habilidades em projetos significativos. Meu objetivo é contribuir com iniciativas de código aberto, fomentar a inovação e crescer como profissional na indústria de tecnologia.
+
+## Vamos Conectar! 
+
+*  **E-mail:** [arthursteinerr@gmail.com](mailto:arthursteinerr@gmail.com)
+*  **GitHub:** [arthursteinerr](https://github.com/arthursteinerr)
+
+Sinta-se à vontade para entrar em contato para colaborações, discussões ou oportunidades de aprendizado. Vamos construir algo incrível juntos!
