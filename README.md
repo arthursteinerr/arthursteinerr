@@ -69,9 +69,6 @@ Graduando em Análise e Desenvolvimento de Sistemas pela FAMINAS (Muriaé/MG). A
 * **Microsserviços e APIs de Alta Disponibilidade:** Estruturação de backends robustos em Python e Node.js para agregação, processamento e distribuição de dados estruturados. Implementação de rotas protegidas e controle estrito de acessos.
 * **Plataformas de Analytics e Tomada de Decisão:** Desenvolvimento de aplicações de análise preditiva, inteligência de dados e automação de relatórios, focadas no fornecimento de métricas estratégicas detalhadas para stackholders e diretores corporativos.
 
-### Infraestrutura Autónoma & Servidores Locais
-* **Virtualização e Redes Domésticas/Empresariais:** Reposicionamento e conversão de hardware legado em servidores utilitários baseados em ambientes Linux. Configuração de roteamento de rede, DNS local, firewalls internos e esteiras de automação de serviços em nível de sistema operacional.
-
 ---
 
 ## Canais de Comunicação Profissional
